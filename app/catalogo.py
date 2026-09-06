@@ -281,3 +281,284 @@ def obtener(identificador: str) -> dict | None:
         if item.get("identificador") == identificador:
             return item
     return None
+
+
+# ─── Áreas de materia (mapa normativo; sin gasto PGE) ───
+
+CE = "BOE-A-1978-31229"
+
+AREAS_MATERIA = [
+    {
+        "id": "vivienda",
+        "nombre": "Vivienda y urbanismo",
+        "icono": "🏠",
+        "descripcion": "Normas y artículos sobre acceso a la vivienda, alquiler y ordenación del suelo.",
+        "palabras": ["vivienda", "alquiler", "arrendamiento urbano", "urbanismo", "suelo"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-47",
+                "titulo": "Artículo 47 CE — derecho a la vivienda",
+            },
+        ],
+    },
+    {
+        "id": "sanidad",
+        "nombre": "Sanidad",
+        "icono": "🏥",
+        "descripcion": "Normativa sobre salud pública, asistencia sanitaria y farmacia.",
+        "palabras": ["sanidad", "salud", "farmacéutic", "farmacia", "sistema nacional de salud"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-43",
+                "titulo": "Artículo 43 CE — protección de la salud",
+            },
+        ],
+    },
+    {
+        "id": "educacion",
+        "nombre": "Educación",
+        "icono": "📚",
+        "descripcion": "Educación reglada, universidades, formación profesional y becas.",
+        "palabras": ["educación", "educacion", "universidad", "enseñanza", "formacion profesional", "formación profesional"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-27",
+                "titulo": "Artículo 27 CE — derecho a la educación",
+            },
+        ],
+    },
+    {
+        "id": "empleo",
+        "nombre": "Empleo y seguridad social",
+        "icono": "💼",
+        "descripcion": "Trabajo, relaciones laborales, desempleo y seguridad social.",
+        "palabras": ["trabajo", "laboral", "empleo", "seguridad social", "desempleo", "estatuto de los trabajadores"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-35",
+                "titulo": "Artículo 35 CE — derecho al trabajo",
+            },
+        ],
+    },
+    {
+        "id": "personal-publico",
+        "nombre": "Personal del sector público",
+        "icono": "👤",
+        "descripcion": "Función pública, empleo público y régimen del personal al servicio de las administraciones.",
+        "palabras": ["función pública", "funcion publica", "empleo público", "empleo publico", "estatuto básico del empleado"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-103",
+                "titulo": "Artículo 103 CE — Administración Pública",
+            },
+        ],
+    },
+    {
+        "id": "defensa-seguridad",
+        "nombre": "Defensa y seguridad",
+        "icono": "🛡️",
+        "descripcion": "Defensa, fuerzas armadas y seguridad ciudadana a nivel normativo.",
+        "palabras": ["defensa", "fuerzas armadas", "seguridad ciudadana", "guardia civil", "policía", "policia"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-8",
+                "titulo": "Artículo 8 CE — Fuerzas Armadas",
+            },
+        ],
+    },
+    {
+        "id": "justicia",
+        "nombre": "Justicia y derechos",
+        "icono": "⚖️",
+        "descripcion": "Derechos fundamentales, garantías procesales y organización de la justicia.",
+        "palabras": ["justicia", "poder judicial", "tutela judicial", "derechos fundamentales", "enjuiciamiento"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-24",
+                "titulo": "Artículo 24 CE — tutela judicial efectiva",
+            },
+            {
+                "ley_id": CE,
+                "articulo_id": "art-14",
+                "titulo": "Artículo 14 CE — igualdad ante la ley",
+            },
+        ],
+    },
+    {
+        "id": "economia-fiscal",
+        "nombre": "Economía y fiscalidad",
+        "icono": "💶",
+        "descripcion": "Tributos, hacienda pública, consumo y marco económico general.",
+        "palabras": ["tribut", "impuesto", "hacienda", "fiscal", "presupuesto", "consumo"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-31",
+                "titulo": "Artículo 31 CE — sistema tributario",
+            },
+        ],
+    },
+    {
+        "id": "medio-ambiente",
+        "nombre": "Medio ambiente y energía",
+        "icono": "🌿",
+        "descripcion": "Protección ambiental, energía, agua y residuos.",
+        "palabras": ["medio ambiente", "ambiental", "energía", "energia", "residuos", "cambio climático", "cambio climatico"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-45",
+                "titulo": "Artículo 45 CE — medio ambiente",
+            },
+        ],
+    },
+    {
+        "id": "igualdad-inclusion",
+        "nombre": "Igualdad e inclusión",
+        "icono": "🤝",
+        "descripcion": "Igualdad de trato, discapacidad y prevención de la discriminación.",
+        "palabras": ["igualdad", "discriminación", "discriminacion", "discapacidad", "violencia de género", "violencia de genero"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-14",
+                "titulo": "Artículo 14 CE — igualdad ante la ley",
+            },
+        ],
+    },
+    {
+        "id": "migracion",
+        "nombre": "Migración y extranjería",
+        "icono": "🌍",
+        "descripcion": "Extranjería, asilo, nacionalidad y régimen de residencia.",
+        "palabras": ["extranjería", "extranjeria", "extranjeros", "inmigración", "inmigracion", "asilo", "nacionalidad"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-13",
+                "titulo": "Artículo 13 CE — extranjeros en España",
+            },
+        ],
+    },
+    {
+        "id": "cooperacion",
+        "nombre": "Cooperación internacional",
+        "icono": "🌐",
+        "descripcion": "Acción exterior, tratados y cooperación al desarrollo.",
+        "palabras": ["cooperación", "cooperacion", "acción exterior", "accion exterior", "tratado internacional", "desarrollo internacional"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-93",
+                "titulo": "Artículo 93 CE — tratados de atribución de competencias",
+            },
+        ],
+    },
+    {
+        "id": "entidades-sociales",
+        "nombre": "Entidades sociales y tercer sector",
+        "icono": "🏛️",
+        "descripcion": "Asociaciones, fundaciones y régimen de entidades sin ánimo de lucro.",
+        "palabras": ["asociacion", "asociación", "fundacion", "fundación", "tercer sector", "voluntariado"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-22",
+                "titulo": "Artículo 22 CE — derecho de asociación",
+            },
+        ],
+    },
+    {
+        "id": "administracion",
+        "nombre": "Administración y procedimiento",
+        "icono": "📋",
+        "descripcion": "Procedimiento administrativo, transparencia y buen gobierno.",
+        "palabras": ["procedimiento administrativo", "transparencia", "buen gobierno", "administración pública", "administracion publica"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-105",
+                "titulo": "Artículo 105 CE — audiencia y acceso a archivos",
+            },
+        ],
+    },
+    {
+        "id": "autonomias-local",
+        "nombre": "Autonomías y administración local",
+        "icono": "🗺️",
+        "descripcion": "Comunidades autónomas, régimen foral y entidades locales.",
+        "palabras": ["autonomía", "autonomia", "comunidad autónoma", "comunidad autonoma", "régimen local", "regimen local", "ayuntamiento", "foral"],
+        "ejemplos": [
+            {
+                "ley_id": CE,
+                "articulo_id": "art-137",
+                "titulo": "Artículo 137 CE — organización territorial",
+            },
+        ],
+    },
+]
+
+
+def _normas_de_area(area: dict) -> list[dict]:
+    items = cargar_catalogo()
+    palabras = [p.lower() for p in area.get("palabras") or []]
+    resultado = []
+    for item in items:
+        titulo = (item.get("titulo") or "").lower()
+        if any(p in titulo for p in palabras):
+            resultado.append(item)
+    return resultado
+
+
+def areas() -> list[dict]:
+    result = []
+    for area in AREAS_MATERIA:
+        total = len(_normas_de_area(area))
+        result.append(
+            {
+                "id": area["id"],
+                "nombre": area["nombre"],
+                "icono": area["icono"],
+                "descripcion": area["descripcion"],
+                "total": total,
+                "ejemplos": len(area.get("ejemplos") or []),
+            }
+        )
+    return result
+
+
+def obtener_area(area_id: str) -> dict | None:
+    return next((a for a in AREAS_MATERIA if a["id"] == area_id), None)
+
+
+def buscar_area(area_id: str, q: str = "", limite: int = 200) -> dict | None:
+    area = obtener_area(area_id)
+    if not area:
+        return None
+    items = _normas_de_area(area)
+    if q:
+        palabras = q.lower().split()
+        items = [
+            i
+            for i in items
+            if all(
+                p in " ".join(str(i.get(k, "")) for k in ("titulo", "identificador", "rango")).lower()
+                for p in palabras
+            )
+        ]
+    return {
+        "id": area["id"],
+        "nombre": area["nombre"],
+        "icono": area["icono"],
+        "descripcion": area["descripcion"],
+        "ejemplos": area.get("ejemplos") or [],
+        "items": items[:limite],
+        "total": len(items),
+    }

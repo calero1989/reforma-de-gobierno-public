@@ -1,4 +1,4 @@
-const CACHE = "simulador-v29";
+const CACHE = "simulador-v30";
 const ESTATICOS = [
   "/",
   "/styles.css",

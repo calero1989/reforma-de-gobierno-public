@@ -92,11 +92,31 @@
             <button type="button" class="secondary" id="btn-limpiar-filtros">Limpiar</button>
           </div>
         </div>
-        <h4 class="seccion-titulo">Por rango normativo</h4>
-        <div id="categorias-grid" class="categorias-grid"></div>
-        <h4 class="seccion-titulo">Colecciones temáticas</h4>
-        <div id="colecciones-grid" class="categorias-grid"></div>
+        <h4 class="seccion-titulo">Explorar por área</h4>
+        <p class="meta seccion-ayuda">Elige una materia para ver normas y ejemplos guiados. Después podrás abrir un artículo y simular una reforma.</p>
+        <div id="areas-grid" class="categorias-grid areas-grid"></div>
+
+        <details class="explorar-mas">
+          <summary>Otras formas de explorar</summary>
+          <h4 class="seccion-titulo">Por rango normativo</h4>
+          <div id="categorias-grid" class="categorias-grid"></div>
+          <h4 class="seccion-titulo">Colecciones temáticas</h4>
+          <div id="colecciones-grid" class="categorias-grid"></div>
+        </details>
         <div id="lista-leyes"></div>
+      </div>
+
+      <!-- Vista: Área de materia -->
+      <div id="vista-area" hidden>
+        <p class="meta" id="area-descripcion"></p>
+        <h4 class="seccion-titulo">Ejemplos guiados</h4>
+        <div id="area-ejemplos" class="area-ejemplos"></div>
+        <h4 class="seccion-titulo">Normas relacionadas</h4>
+        <div class="search-row">
+          <input id="buscar-area" type="search" placeholder="Filtrar normas de esta área…" autocomplete="off" enterkeyhint="search">
+        </div>
+        <div id="area-contador" class="meta"></div>
+        <div id="lista-leyes-area"></div>
       </div>
 
       <!-- Vista: Lista de leyes de una categoría -->

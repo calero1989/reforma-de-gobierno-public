@@ -20,4 +20,4 @@ Esta es la **copia pÃºblica sanitizada** del proyecto.
 
 Los textos legales se obtienen del BOE (legislaciÃ³n consolidada). Las simulaciones son orientativas.
 
-Ãšltima sincronizaciÃ³n pÃºblica: 2026-09-06 14:05
+Ãšltima sincronizaciÃ³n pÃºblica: 2026-09-06 18:22

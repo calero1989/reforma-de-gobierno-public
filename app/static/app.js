@@ -5,6 +5,7 @@ const state = {
   impactoActual: null,
   categoriaActual: "",
   coleccionActual: "",
+  areaActual: "",
   articulosData: [],
 };
 
@@ -48,6 +49,7 @@ function histIr(dir) {
   if (e.tipo === "inicio") irInicio();
   else if (e.tipo === "categoria") abrirCategoria(e.rango);
   else if (e.tipo === "coleccion") abrirColeccion(e.colId);
+  else if (e.tipo === "area") abrirArea(e.areaId);
   else if (e.tipo === "ley") cargarLey(e.leyId);
   historial.navegando = false;
   histActualizar();
@@ -58,6 +60,7 @@ const $$ = (sel) => document.querySelectorAll(sel);
 
 const infoCategorias = {};
 const infoColecciones = {};
+const infoAreas = {};
 
 const ICONOS_CAT = {
   "Constitución": "📜",
@@ -262,6 +265,7 @@ function setBreadcrumb(niveles) {
 /* ─── Vistas del explorador ─── */
 function mostrarVista(nombre) {
   $("#vista-inicio").hidden = nombre !== "inicio";
+  $("#vista-area").hidden = nombre !== "area";
   $("#vista-categoria").hidden = nombre !== "categoria";
   $("#vista-articulos").hidden = nombre !== "articulos";
 }
@@ -271,7 +275,112 @@ function irInicio() {
   setBreadcrumb([{ label: "Inicio", nivel: "inicio", action: irInicio }]);
   $("#buscar").value = "";
   $("#lista-leyes").innerHTML = "";
+  state.areaActual = "";
+  state.categoriaActual = "";
+  state.coleccionActual = "";
   histPush({ tipo: "inicio" });
+}
+
+/* ─── Áreas de materia ─── */
+async function cargarAreas() {
+  try {
+    const data = await (await fetch("/api/areas")).json();
+    data.forEach((area) => {
+      infoAreas[area.id] = area;
+    });
+    const grid = $("#areas-grid");
+    if (!grid) return;
+    grid.innerHTML = data
+      .map(
+        (area) => `
+      <button type="button" class="cat-card area-card" data-area="${escHtml(area.id)}">
+        <div class="cat-icono">${area.icono || "📑"}</div>
+        <div class="cat-info">
+          <div class="cat-nombre">${escHtml(area.nombre)}</div>
+          <div class="cat-total">${area.total === 1 ? "1 norma" : `${area.total} normas`}${
+          area.ejemplos ? ` · ${area.ejemplos} ejemplo${area.ejemplos === 1 ? "" : "s"}` : ""
+        }</div>
+        </div>
+      </button>`
+      )
+      .join("");
+    grid.querySelectorAll(".area-card").forEach((el) => {
+      el.addEventListener("click", () => abrirArea(el.dataset.area));
+    });
+  } catch {
+    const grid = $("#areas-grid");
+    if (grid) grid.innerHTML = '<div class="empty">No se pudieron cargar las áreas.</div>';
+  }
+}
+
+async function abrirArea(areaId) {
+  if (!areaId) return;
+  state.areaActual = areaId;
+  state.categoriaActual = "";
+  state.coleccionActual = "";
+  mostrarVista("area");
+  histPush({ tipo: "area", areaId });
+  $("#buscar-area").value = "";
+  $("#lista-leyes-area").innerHTML = '<div class="empty">Cargando…</div>';
+  $("#area-ejemplos").innerHTML = "";
+
+  const res = await fetch(`/api/area/${encodeURIComponent(areaId)}?limit=200`);
+  const data = await res.json();
+  if (!res.ok) {
+    $("#lista-leyes-area").innerHTML = `<div class="empty">${escHtml(data.error || "Área no encontrada")}</div>`;
+    return;
+  }
+
+  setBreadcrumb([
+    { label: "Inicio", nivel: "inicio", action: irInicio },
+    { label: data.nombre, nivel: "area", action: () => abrirArea(areaId) },
+  ]);
+  $("#area-descripcion").textContent = data.descripcion || "";
+  $("#area-contador").textContent =
+    data.total === 1 ? "1 norma relacionada" : `${data.total} normas relacionadas`;
+
+  const ejemplos = data.ejemplos || [];
+  const contEj = $("#area-ejemplos");
+  if (!ejemplos.length) {
+    contEj.innerHTML = '<div class="empty">Sin ejemplos guiados en esta área.</div>';
+  } else {
+    contEj.innerHTML = ejemplos
+      .map(
+        (ej, idx) => `
+      <button type="button" class="ejemplo-card" data-idx="${idx}">
+        <span class="ejemplo-etiqueta">Ejemplo guiado</span>
+        <span class="ejemplo-titulo">${escHtml(ej.titulo || "Abrir artículo")}</span>
+        <span class="ejemplo-accion">Abrir y simular →</span>
+      </button>`
+      )
+      .join("");
+    contEj.querySelectorAll(".ejemplo-card").forEach((btn) => {
+      btn.addEventListener("click", async () => {
+        const ej = ejemplos[Number(btn.dataset.idx)];
+        if (!ej?.ley_id) return;
+        await cargarLey(ej.ley_id);
+        if (ej.articulo_id) {
+          await cargarArticulo(ej.articulo_id);
+          mostrarPanel("articulo");
+          activarTab("reforma");
+        }
+      });
+    });
+  }
+
+  renderListaLeyes(data.items || [], "#lista-leyes-area");
+}
+
+async function filtrarArea() {
+  const areaId = state.areaActual;
+  if (!areaId) return;
+  const q = $("#buscar-area").value.trim();
+  const res = await fetch(`/api/area/${encodeURIComponent(areaId)}?${new URLSearchParams({ q, limit: "200" })}`);
+  const data = await res.json();
+  if (!res.ok) return;
+  $("#area-contador").textContent =
+    data.total === 1 ? "1 norma relacionada" : `${data.total} normas relacionadas`;
+  renderListaLeyes(data.items || [], "#lista-leyes-area");
 }
 
 /* ─── Categorías ─── */
@@ -490,6 +599,11 @@ async function cargarLey(id) {
   mostrarVista("articulos");
 
   const bcLevels = [{ label: "Inicio", nivel: "inicio", action: irInicio }];
+  if (state.areaActual) {
+    const areaId = state.areaActual;
+    const areaNombre = infoAreas[areaId]?.nombre || areaId;
+    bcLevels.push({ label: areaNombre, nivel: "area", action: () => abrirArea(areaId) });
+  }
   if (state.categoriaActual) {
     const r = state.categoriaActual;
     bcLevels.push({ label: r, nivel: "categoria", action: () => abrirCategoria(r) });
@@ -778,6 +892,12 @@ $("#buscar-cat").addEventListener("input", () => {
   debounceCat = setTimeout(filtrarCategoria, 300);
 });
 
+let debounceArea;
+$("#buscar-area")?.addEventListener("input", () => {
+  clearTimeout(debounceArea);
+  debounceArea = setTimeout(filtrarArea, 300);
+});
+
 let debounceArt;
 $("#buscar-art").addEventListener("input", () => {
   clearTimeout(debounceArt);
@@ -842,6 +962,7 @@ async function arrancarSesion() {
   }
 }
 
+cargarAreas();
 cargarCategorias();
 cargarColecciones();
 irInicio();

@@ -30,7 +30,7 @@ from app.auth import (
     _es_local,
 )
 from app.acceso import imprimir_accesos, iniciar_tunel, puerto, urls_acceso
-from app.catalogo import buscar, buscar_coleccion, categorias, colecciones, obtener
+from app.catalogo import areas, buscar, buscar_area, buscar_coleccion, categorias, colecciones, obtener
 from app.comunidad import (
     CATEGORIAS_FORO,
     EMOJIS_REACCION,
@@ -216,6 +216,21 @@ def api_categorias():
 @app.get("/api/colecciones")
 def api_colecciones():
     return jsonify(colecciones())
+
+
+@app.get("/api/areas")
+def api_areas():
+    return jsonify(areas())
+
+
+@app.get("/api/area/<area_id>")
+def api_area(area_id: str):
+    q = request.args.get("q", "")
+    limite = _entero(request.args.get("limit"), 200, 500)
+    data = buscar_area(area_id, q, limite)
+    if not data:
+        return jsonify({"error": "Área no encontrada"}), 404
+    return jsonify(data)
 
 
 @app.get("/api/coleccion/<col_id>")

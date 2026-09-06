@@ -145,14 +145,27 @@ foreach ($p in $prohibidos) {
 # Commit + push
 Push-Location $Destino
 try {
+    # Evitar archivos cloud/placeholder que rompen git add en Windows
+    $problematico = Join-Path $Destino "herramientas\programar-backup-pc.ps1"
+    $origenProb = Join-Path $LocalRoot "herramientas\programar-backup-pc.ps1"
+    if (Test-Path $origenProb) {
+        $txt = [System.IO.File]::ReadAllText($origenProb)
+        foreach ($r in $reemplazos) { $txt = $txt.Replace($r.De, $r.A) }
+        if (Test-Path $problematico) { Remove-Item -Force $problematico }
+        [System.IO.File]::WriteAllText($problematico, $txt, $utf8)
+    }
+
     git add -A
+    if ($LASTEXITCODE -ne 0) { throw "git add falló" }
     $pendiente = git status --porcelain
     if (-not $pendiente) {
         Write-Host "Sin cambios nuevos en el repo público." -ForegroundColor DarkGray
     } else {
         git -c user.name="calero1989" -c user.email="vidagaming.89@gmail.com" commit -m $Mensaje
+        if ($LASTEXITCODE -ne 0) { throw "git commit falló" }
     }
     git push -u origin main
+    if ($LASTEXITCODE -ne 0) { throw "git push falló" }
     Write-Host "Push público OK → $RepoPublicoUrl" -ForegroundColor Green
 } finally {
     Pop-Location

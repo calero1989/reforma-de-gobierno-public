@@ -297,6 +297,85 @@ header h1 {
   color: var(--muted);
 }
 
+.seccion-ayuda {
+  margin: -0.35rem 0 0.75rem;
+  font-size: 0.82rem;
+}
+
+.explorar-mas {
+  margin: 0.5rem 0 1rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.35rem 0.75rem 0.75rem;
+  background: var(--panel-2);
+}
+
+.explorar-mas > summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.88rem;
+  color: var(--muted);
+  padding: 0.55rem 0.15rem;
+  list-style: none;
+}
+
+.explorar-mas > summary::-webkit-details-marker { display: none; }
+
+.explorar-mas[open] > summary {
+  color: var(--text);
+  margin-bottom: 0.35rem;
+}
+
+.areas-grid .area-card {
+  width: 100%;
+  text-align: left;
+}
+
+.area-ejemplos {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.ejemplo-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.2rem;
+  width: 100%;
+  padding: 0.75rem 0.9rem;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--panel-2);
+  color: var(--text);
+  cursor: pointer;
+  text-align: left;
+}
+
+.ejemplo-card:hover,
+.ejemplo-card:focus-visible {
+  border-color: var(--accent);
+}
+
+.ejemplo-etiqueta {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.ejemplo-titulo {
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+
+.ejemplo-accion {
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
 /* ─── Inputs ─── */
 input, select, textarea, button {
   font: inherit;
